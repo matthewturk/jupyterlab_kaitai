@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: matthewturk@gmail.com
+author_name: Matthew Turk
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab_kaitai
+project_short_description: Experiment with Kaitai Struct in jupyterlab
+python_name: jupyterlab_kaitai
+repository: https://github.com/matthewturk/jupyterlab_kaitai.git
+test: true
+

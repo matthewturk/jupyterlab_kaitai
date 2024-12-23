@@ -1,4 +1,10 @@
-﻿.HexViewer-view { height: 300px; flex: 0 0 600px; }
+/*
+    See the JupyterLab Developer Guide for useful CSS Patterns:
+
+    https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+*/
+
+.HexViewer-view { height: 300px; flex: 0 0 600px; }
 .HexViewer-standalone { height: '100%'; flex: 0 0 600px; }
 
 .hexViewer * { box-sizing: content-box }
